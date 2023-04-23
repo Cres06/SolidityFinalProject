@@ -42,11 +42,11 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 
 Once the contract is deployed, you can interact with it by expanding the area below the address which is the Deployed Contracts area. Expand your deployed contract by clicking the arrow button at the left side of it.
 
-Once done, you may now interact with your created contruct. Just input the needed data such as address(just copy the Account address), and the value of your token, as well as how many token you want to burn. 
+Once done, you may now interact with your created contruct. Just input the needed data such as address(just copy the Account address), and the value of your token, as well as how many tokens you want to burn. 
 
-You have to start with creating a value in the "mint" to create your tokens, then click transact in order for you to deploy the changes. You may check it by clicking the "balances". Once your done putting a value in your mint, you may input a value of your tokens you want to burn, then click transact to deploy the changes. 
+You have to start with creating a value in the "mint" to create your tokens, then click transact in order for you to deploy the changes. You may check it by clicking the "balances". Once you're done putting a value in your mint, you may input a value of your tokens you want to burn, then click transact to deploy the changes. 
 
-Note: Everytime you transact in the mint section, the balances and totalSupply of your tokens will increase, it is because of the operation we use(+=).
+Note: Everytime you transact in the mint section, the balances and totalSupply of your tokens will increase, it is because of the operation we use(+=). In order for you to decrease the value, you must input a value in the burn section that does not exceed to the current value in the balances or totalSupply.
 
 Authors
 
