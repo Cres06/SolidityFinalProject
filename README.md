@@ -44,7 +44,7 @@ Once done, you may now interact with your created contruct. Just input the neede
 
 You have to start with creating a value in the "mint" to create your tokens, then click transact in order for you to deploy the changes. You may check it by clicking the "balances". Once you're done putting a value in your mint, you may input a value of your tokens you want to burn, then click transact to deploy the changes. 
 
-Note: Everytime you transact in the mint section, the balances and totalSupply of your tokens will increase, it is because of the operation we use(+=). In order for you to decrease the value, you must input a value in the burn section that does not exceed to the current value in the balances or totalSupply.
+Note: Everytime you transact in the mint section, the balances and totalSupply of your tokens will increase, it is because of the operation we used(+=). In order for you to decrease the value, you must input a value in the burn section that does not exceed to the current value in the balances or totalSupply.
 
 # Authors
 
