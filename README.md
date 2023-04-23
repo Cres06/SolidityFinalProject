@@ -1,12 +1,12 @@
-#SolidityFinalProject
+# SolidityFinalProject
 
 This solidity program is the final project which demonstrates code that creates a simple token contract. This will give Solidity newbies a fast overview of the methods used to produce tokens, to burn, and check the balances. 
 
-#Description
+# Description
 
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The functions in this contract can be used to create tokens and burn them. Once the code is deployed, how the user entered data will determine how the code is executed. The purpose of this program is to impart a little bit of Solidity knowledge to beginners.  
 
-#Getting Started
+# Getting Started
 
 Executing program
 
@@ -48,10 +48,10 @@ You have to start with creating a value in the "mint" to create your tokens, the
 
 Note: Everytime you transact in the mint section, the balances and totalSupply of your tokens will increase, it is because of the operation we use(+=). In order for you to decrease the value, you must input a value in the burn section that does not exceed to the current value in the balances or totalSupply.
 
-#Authors
+# Authors
 
 Cresilda Alcansado
 
-#License
+# License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
