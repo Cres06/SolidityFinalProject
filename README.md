@@ -1,10 +1,13 @@
 SolidityFinalProject
+
 This solidity program is the final project which demonstrates code that creates a simple token contract. This will give Solidity newbies a fast overview of the methods used to produce tokens, to burn, and check the balances. 
 
 Description
+
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The functions in this contract can be used to create tokens and burn them. Once the code is deployed, how the user entered data will determine how the code is executed. The purpose of this program is to impart a little bit of Solidity knowledge to beginners.  
 
 Getting Started
+
 Executing program
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
@@ -45,7 +48,9 @@ You have to start with creating a value in the "mint" to create your tokens, the
 Note: Everytime you transact in the mint section, the balances and totalSupply of your tokens will increase, it is because of the operation we use(+=).
 
 Authors
+
 Cresilda Alcansado
 
 License
+
 This project is licensed under the MIT License - see the LICENSE.md file for details
